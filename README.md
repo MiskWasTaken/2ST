@@ -1,1 +1,2 @@
-# 2st
+# 2ST
+Minecraft's school server!
