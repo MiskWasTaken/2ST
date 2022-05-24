@@ -1,1 +1,1 @@
-[Site](https://miskwastaken.github.io/2ST/index.html)
+[Site](https://miskwastaken.github.io/2ST/home)
