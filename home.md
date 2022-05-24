@@ -1,4 +1,4 @@
-[Raw](main.lua)
+[Raw](main)
 
 # The Future Of Roblox Scripts.
 Still being work in progress.
