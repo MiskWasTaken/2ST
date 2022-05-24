@@ -4,7 +4,7 @@
 
 ### Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MiskWasTaken/2ST/main/main.html"))()
+loadstring(game:HttpGet("https://miskwastaken.github.io/2ST/main"))()
 ```
 
 # The Future Of Roblox Scripts.
