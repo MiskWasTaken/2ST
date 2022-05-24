@@ -1,3 +1,4 @@
 future: true
+timezone: GMT+2
 
 theme: jekyll-theme-slate
