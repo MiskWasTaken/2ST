@@ -1,4 +1,6 @@
 future: true
 timezone: Europe/Italy
 
+permalink: /404.html
+
 theme: jekyll-theme-slate
