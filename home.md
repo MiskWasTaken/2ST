@@ -2,7 +2,8 @@
 
 [Raw](main)
 
-```lua
+### Loadstring
+```Lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MiskWasTaken/2ST/main/main.html"))()
 ```
 
