@@ -1,4 +1,4 @@
-[Raw](https://miskwastaken.github.io/2ST/raw)
+[Raw](raw)
 
 # The Future Of Roblox Scripts.
 Still being work in progress.
