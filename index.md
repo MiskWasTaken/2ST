@@ -1,2 +1,4 @@
-# [Home](https://miskwastaken.github.io/2ST/home)
-## [Raw](https://miskwastaken.github.io/2ST/main)
+[Index](index) >
+
+[Home](home)
+[Raw](main)
