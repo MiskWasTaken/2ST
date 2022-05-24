@@ -1,8 +1,8 @@
 [Index](index) > [Home](home) > [Game list](gamelist) >
 
-- [ ]   Planned
-- [x]   Included
+- [ ] Planned
+- [x] Included
 
 # Games
-- [ ]   Combat Warriors
-- [ ]   Da Hood
+- [ ] Combat Warriors
+- [ ] Da Hood
