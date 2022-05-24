@@ -2,6 +2,10 @@
 
 [Raw](main)
 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MiskWasTaken/2ST/main/main.html"))()
+```
+
 # The Future Of Roblox Scripts.
 wip.
 
