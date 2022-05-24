@@ -2,3 +2,5 @@ future: true
 timezone: Europe/Italy
 
 permalink: /404.md
+
+theme: jekyll-theme-midnight
