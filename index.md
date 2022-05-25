@@ -1,5 +1,5 @@
 [Index](index) >
 
-- [ ] [| Home](home)
-- [ ] [| Raw](main)
-- [ ] [| Game list](gamelist)
+- [Home](home)
+- [Raw](main)
+- [Game list](gamelist)
