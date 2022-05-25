@@ -3,7 +3,7 @@
 # Main product
 ```lua
 loadstring(game:HttpGet("https://miskwastaken.github.io/2ST/main"))()
-```
+```<br/>
 
 # Shader enhancer
 ```lua
