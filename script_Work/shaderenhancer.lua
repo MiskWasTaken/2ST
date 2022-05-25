@@ -1,4 +1,4 @@
 game:GetService("StarterGui"):SetCore('SendNotification', {
-    Title = 'Hub\n2ST';
+    Title = 'Shader Enhancer\n2ST';
     Text = 'Work in progress.';
 })
