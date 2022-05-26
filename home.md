@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://miskwastaken.github.io/2ST/main"))()
 Other products [here](products)
 
 # The Future Of Roblox Scripts.
-An Hub for a list of roblox's games ([Game list](gamelist)).
+An Hub for a list of roblox's games ([Game list](gamelist)).<br>
 Combat Warriors, Da Hood etc. will be included!
 
 # What roblox's games will be included?

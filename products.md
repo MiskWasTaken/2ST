@@ -1,11 +1,11 @@
 [Index](index) > [Home](home) > [Products](products) >
 
-- Main product
+- Main product *work in progress*
 ```lua
 loadstring(game:HttpGet("https://miskwastaken.github.io/2ST/main"))()
 ```
 
-- Shader enhancer
+- Fullbright *active*
 ```lua
-loadstring(game:HttpGet("https://miskwastaken.github.io/2ST/shaderenhancer"))()
+loadstring(game:HttpGet("https://miskwastaken.github.io/2ST/fullbright"))()
 ```
