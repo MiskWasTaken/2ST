@@ -1,8 +1,9 @@
 [Index](index) > [Home](home) > [Game list](gamelist) >
 
-- Planned
+- x Planned
 - Included
 
 # Games
-- Combat Warriors
-- Da Hood
+- x Combat Warriors
+- x Da Hood
+- Apeirophobia
