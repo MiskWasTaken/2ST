@@ -10,7 +10,7 @@ No key needed
 
 # Update 1
 
-- Removed GlobalShadows
+- Added GlobalShadows function
 
 # Update 0
 
