@@ -8,6 +8,10 @@ loadstring(game:HttpGet(("https://miskwastaken.github.io/2ST/fullbright"), true)
 
 No key needed
 
-# v1.0
+# Update 1
+
+- Removed GlobalShadows
+
+# Update 0
 
 - Released
