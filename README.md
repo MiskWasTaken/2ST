@@ -1,1 +1,0 @@
-# [Index](https://miskwastaken.github.io/2ST/index)
