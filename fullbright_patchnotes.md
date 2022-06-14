@@ -8,7 +8,12 @@ loadstring(game:HttpGet(("https://miskwastaken.github.io/2ST/fullbright"), true)
 
 No key needed
 
+# Update 3
+
+- Bug fixes
+
 # Update 2
+
 - Bug fixes
 
 # Update 1
