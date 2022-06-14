@@ -8,6 +8,9 @@ loadstring(game:HttpGet(("https://miskwastaken.github.io/2ST/fullbright"), true)
 
 No key needed
 
+# Update 2
+- Bug fixes
+
 # Update 1
 
 - Added GlobalShadows function
